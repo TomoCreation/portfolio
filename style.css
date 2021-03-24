@@ -27,15 +27,6 @@ body {
   background-size: cover;
 }
 
-@media screen and (max-width:450px) {
-
-  .bg {
-    background-attachment: none;
-    height: auto;
-  }
-
-}
-
 /*グローバルナビゲーション*/
 
 .globalnav {
@@ -93,7 +84,6 @@ body {
   
   .copy .subcopy {
     margin: 0 10%;
-    padding-bottom: 50%;
   }
 
 }
